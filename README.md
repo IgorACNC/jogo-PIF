@@ -1,4 +1,4 @@
-# jogo-PIF
+# PEnalts
 Jogo criado para cadeira de PIF
 
 - Bruno Carvalho
